@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Weather Plugin
-Plugin URI: 
+Plugin URI: https://github.com/amritjcu/weather-plugin
 Description: A simple WordPress plugin to display weather information from the OpenWeatherMap API.
 Version: 1.0
 Author: Amrit Thapa
-Author URI:
+Author URI: https://github.com/amritjcu
 */
 
 // Hook to create plugin settings menu
